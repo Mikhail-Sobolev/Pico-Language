@@ -1,0 +1,7 @@
+
+require core.clib.exit;
+
+const fnc: int main int32 argc, chr &&argv {
+        exit 0;
+        return 1;
+}
